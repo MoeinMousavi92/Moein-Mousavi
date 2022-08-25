@@ -220,7 +220,7 @@ Here's a recap of your accomplishments:
   5. We'd love to see your new profile! Share your profile on social media and tag us!
   6. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
 
-Check out these resources to learn more or get involved:
+Check out these resources to learn more or get involvedd
 - Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
